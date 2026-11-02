@@ -1,4 +1,4 @@
-# Bachelor's Thesis: Implementation of observability in a Microservice Architecture of an Online Shop
+# Bachelor's Thesis: Implementation of observability in a microservice architecture of an online shop
 
 Migration of a monolithic online shop web application to a microservice architecture, with observability patterns (health check API, log aggregation and exception tracking) for real-time visibility into the system.
 
